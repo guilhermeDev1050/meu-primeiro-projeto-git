@@ -1,1 +1,5 @@
-Linha de teste Qui 18 Set 2025 20:18:53 -03
+# Meu Primeiro Projeto Git
+# Meu Primeiro Projeto Git
+Este é um projeto de exemplo para o tutorial de Git.
+
+##Boas-vindas!
